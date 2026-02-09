@@ -910,7 +910,7 @@ Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus
 
 <br>
 
-Made with ❤️ in Tunisia 🇹🇳
+by **Tbini Mustapha Amin**
 
 <br>
 
