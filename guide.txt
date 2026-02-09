@@ -1,0 +1,13 @@
+npm run dev
+php artisan migrate
+php artisan db:seed --class=DepotSeeder
+php artisan storage:link
+
+Routes importantes:
+- Public tracking: http://localhost:8000/tracking
+- Admin colis: http://localhost:8000/admin/colis
+- Livreur livraisons: http://localhost:8000/livreur/livraisons
+- Super admin: http://localhost:8000/super-admin/dashboard
+
+Voir COLIS_SYSTEM_GUIDE.md pour la documentation complète
+Voir TESTING_GUIDE.md pour les tests
