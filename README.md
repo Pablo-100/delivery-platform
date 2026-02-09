@@ -892,13 +892,13 @@ Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus
 ## 📸 Captures d'Écran
 
 ### Dashboard Super Admin
-![Super Admin Dashboard](screenshots/super-admin-dashboard.png)
+![Super Admin Dashboard](pic/Dashboard%20Super%20Admin.png)
 
 ### Interface Livreur
-![Livreur Interface](screenshots/livreur-interface.png)
+![Livreur Interface](pic/Gestion%20des%20Colis.png)
 
 ### Gestion des Colis
-![Gestion Colis](screenshots/gestion-colis.png)
+![Gestion Colis](pic/Interface%20Livreur.png)
 
 ---
 
